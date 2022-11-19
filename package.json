@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.0"
+    "@openzeppelin/contracts": "^4.8.0",
+    "yarn": "file:.3.2"
   }
 }
