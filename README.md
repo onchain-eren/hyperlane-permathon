@@ -5,5 +5,5 @@
 # Demo link
 https://www.veed.io/view/f8ad182e-c58d-48cf-8d65-5096be79f57d?panel=share
 # Team
-https://arcadialabs.xyz/\
+https://www.zip.network/\
 dev: multichain-kid
